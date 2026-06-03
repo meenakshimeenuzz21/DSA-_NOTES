@@ -1,0 +1,15 @@
+git status
+git init
+git add filename
+git commit -m "added file"
+git log
+git checkout id
+git checkout master
+git branch
+git branch dev
+git checkout dev
+git clone URL
+git push
+Fork
+Pull request
+
