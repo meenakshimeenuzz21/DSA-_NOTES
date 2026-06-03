@@ -1,0 +1,43 @@
+Print - To display something
+Stings - use single quotes or double quotes
+Numbers - no use of quotes
+# for commands
+Multiple values - use commas for separation
+
+VARIABLES - storage space, reserved memory location to store values
+.Variable name must start with a letter or underscore character
+.Variable name cannot start with a number
+.Only contain alphanumeric characters and underscores
+.Variable name cannot be a keyword
+
+GOOD VARIABLE NAME
+.Choose meaningful name instead of short name. roll _ no is better than m
+.Maintain the length of a variable name
+.Use lowercase letters
+
+INPUT FUNCTION - built in feature
+
+DATA TYPES
+.Strings
+.Numbers
+.Lists - mutable, ordered , indexing, duplicate elements
+.Tuples - unmutable, ordered, indexing, duplicate elements
+.Set - mutable, unordered, non, non
+.Dictionary
+.Boolean
+
+STRINGS - sequence of characters
+
+OPERATORS - Arithmetic                           RELATIONAL                                           LOGICAL
+	1. Addition                                              1. Greater than                                      1. and
+	2. Subtraction                                         2. Less than                                            2. or
+	3. Multiplication                                     3. Equal to                                              3. not
+	4. Division                                                4. Not equal to
+	5. Modulus
+	6. Exponent
+	7. Floor Division
+
+
+BITWISE                                                     ASSIGNMENT OPERATOR
+	1. Is in operator
+   2.  Not in operator
