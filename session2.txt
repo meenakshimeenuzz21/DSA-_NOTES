@@ -1,0 +1,21 @@
+MACHINE LEARNING
+       -> Supervised Learning- Labelled data
+               .Classification
+               .Regression
+       -> Unsupervised Learning- Unlabelled data
+                 .Clustering
+                 .Association
+
+MACHINE LEARNING APPLICATIONS
+       ->Virtual Assistant
+             Intelligent Agent, Natural Language Processing
+       ->Social Media
+             Sentiment Analysis ,Filtering Spam
+       ->eCommerce
+             Customer Support
+       ->Transport
+              Safety Monitoring
+       ->Healthcare
+               Drug Discovery
+       ->Financial Services
+               Algorithmic Trading
