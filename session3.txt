@@ -1,0 +1,16 @@
+	NumPy
+	  -> is a python library for large multidimensional array processing
+	Pandas
+	  ->Built on top of NumPy which provides support for multidimensional array
+	scikit learn
+	  ->Machine Learning library in Python
+	 Turing Test
+	
+	DATA SCIENCE LIFECYCLE
+	    1. Business Understanding
+	    2. Data Mining
+	    3. Data Cleaning
+	    4. Data Exploration
+	    5. Feature Engineering
+	    6. Predictive Modeling
+	    7. Data Visualization
